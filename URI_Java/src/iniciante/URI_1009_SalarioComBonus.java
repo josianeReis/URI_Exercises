@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class URI_1009_SalarioComBonus {
 
-	    public static void main(String[] args) {
+	    @SuppressWarnings("unused")
+		public static void main(String[] args) {
 	        Scanner scan = new Scanner(System.in);
 	        DecimalFormat df = new DecimalFormat("0.00");
 	        double a, b;
