@@ -19,5 +19,4 @@ main()
     printf("TRAPEZIO: %.3f\n", area_tra);
     printf("QUADRADO: %.3f\n", area_quad);
     printf("RETANGULO: %.3f\n", area_ret);
-
 }
